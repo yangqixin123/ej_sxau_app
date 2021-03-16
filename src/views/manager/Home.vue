@@ -13,6 +13,7 @@
           :key="value.id"
           :icon="value.icon"
           :text="value.name"
+          url="https://v.qq.com/channel/movie"
         />
       </van-grid>
      <!-- 产品 6个 -->
